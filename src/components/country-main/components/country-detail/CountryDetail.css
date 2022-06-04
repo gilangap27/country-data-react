@@ -1,0 +1,16 @@
+* {
+    list-style: none;
+}
+
+.detail-country {
+    display: flex;
+    margin-top: 20px;
+}
+
+.detail-country ul:first-child {
+    margin-right: 50px;
+}
+
+.detail-country ul li {
+    margin-bottom: 20px;
+}
