@@ -1,0 +1,26 @@
+.flag-country {
+    margin-top: 20px;
+}
+
+.coat-of-arm {
+    margin-bottom: 30px;
+}
+
+@media (min-width: 754px) {
+    .img-area {
+        margin-bottom: 50px;
+    }
+}
+
+.coat-of-arm {
+    margin-top: 20px;
+    display: block;
+}
+
+@media (min-width: 754px) {
+    .coat-of-arm {
+        display: inline-block;
+        margin-bottom: 0px;
+        margin-left: 20px;
+    }
+}
