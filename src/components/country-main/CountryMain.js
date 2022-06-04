@@ -14,7 +14,7 @@ const CountryMain = ({ country }) => {
                     <>
                         <CountryTitle countryTitle={data.name.common} />
                         <CountryImg countryFlag={data.flags.svg} countryCoat={data.coatOfArms.svg} />
-                        <CountryDetail />
+                        <CountryDetail countryData={data} />
                     </>
                     : <h2 className="data-kosong">... Data Kosong ...</h2>
             }
