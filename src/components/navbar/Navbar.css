@@ -1,0 +1,14 @@
+.navbar {
+    background-color: rgb(34, 34, 34);
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 1rem 2rem;
+  }
+  
+  .nav-title {
+    text-align: center;
+    font-size: 20px;
+    margin-right: 40px;
+  }
+  
