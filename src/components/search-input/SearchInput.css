@@ -1,0 +1,22 @@
+.search-data {
+    padding: 0 50px;
+  }
+  
+  .search-title {
+    color: white;
+    margin: 20px 0;
+  }
+  
+  #search {
+    width: 150px;
+    padding: 5px;
+    font-size: large;
+    border: none;
+  }
+  
+  .cari-data {
+    margin-left: 5px;
+    padding: 5px 20px;
+    font-size: medium;
+  }
+  
